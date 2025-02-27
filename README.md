@@ -1,33 +1,59 @@
 # Digital Signal Processing using Python
 
-Este repositório contém a conversão dos exemplos do livro **"Digital Signal Processing using MatLab"** para Python, incluindo resumos, simulações e vídeos explicativos.
+Este repositório contém a conversão dos exemplos do livro **"Digital Signal Processing using MATLAB"** para Python, incluindo resumos, simulações e vídeos explicativos. O objetivo é proporcionar uma compreensão mais profunda dos conceitos de processamento digital de sinais e suas implementações práticas utilizando Python.
 
-## Capítulo 4: A Transformada-z:
+---
 
-- [Colab](https://colab.research.google.com/drive/130uo3161vDvLyb3jsJdXm-mq6igCq3n2?usp=sharing)
-- [Vídeos](https://www.youtube.com/watch?v=a4ilqPa6l34)
+## 📘 Capítulo 4: A Transformada-z
 
-## Capítulo 5: Transformada Discreta de Fourier:
+- **[Colab](https://colab.research.google.com/drive/130uo3161vDvLyb3jsJdXm-mq6igCq3n2?usp=sharing)**
+- **[Vídeos](https://www.youtube.com/watch?v=a4ilqPa6l34)**
 
-- [Colab](https://colab.research.google.com/drive/1y0A8fK36LgDPhFw1a_5kmYt37_dZlcST?usp=sharing)
-- [Vídeos](https://www.youtube.com/watch?v=1_AhrM-P7p4)
+---
 
-## Capítulo 6: Implementação de Filtros Discretos no Tempo:
+## 📘 Capítulo 5: Transformada Discreta de Fourier
 
-- [Colab](https://colab.research.google.com/drive/1F1Ew0tZuy1UxYZTwC2nceOEm5UUPGPJn?usp=sharing)
-- [Vídeos](https://www.youtube.com/watch?v=VrWxb4pGb-E)
+- **[Colab](https://colab.research.google.com/drive/1y0A8fK36LgDPhFw1a_5kmYt37_dZlcST?usp=sharing)**
+- **[Vídeos](https://www.youtube.com/watch?v=1_AhrM-P7p4)**
 
-## Capítulo 7: Projeto de Filtros FIR:
+---
 
-- [Colab](https://colab.research.google.com/drive/1kAdGiBY0cixYFvUAv8V5yLpaAsZtBM9T?usp=sharing)
-- [Vídeos](https://www.youtube.com/watch?v=u_tFWolPZY0)
+## 📘 Capítulo 6: Implementação de Filtros Discretos no Tempo
 
-## Capítulo 8: Projeto de Filtros IIR:
+- **[Colab](https://colab.research.google.com/drive/1F1Ew0tZuy1UxYZTwC2nceOEm5UUPGPJn?usp=sharing)**
+- **[Vídeos](https://www.youtube.com/watch?v=VrWxb4pGb-E)**
 
-- [Colab](https://colab.research.google.com/drive/1Ez33Q3zWB3wohPK4GHbhZZSaE_2pqGXM?usp=sharing)
-- [Vídeos](https://www.youtube.com/watch?v=T7uHrC4uGDU)
+---
 
-## Capítulo 12: Aplicações em Comunicações:
+## 📘 Capítulo 7: Projeto de Filtros FIR
 
-- [Colab](https://colab.research.google.com/drive/1hAaCyVx2G1XZunNU5gpxrRPtYdQN5S_c?usp=sharing)
-- [Vídeos](https://www.youtube.com/watch?v=e3qXcEBRajU)
+- **[Colab](https://colab.research.google.com/drive/1kAdGiBY0cixYFvUAv8V5yLpaAsZtBM9T?usp=sharing)**
+- **[Vídeos](https://www.youtube.com/watch?v=u_tFWolPZY0)**
+
+---
+
+## 📘 Capítulo 8: Projeto de Filtros IIR
+
+- **[Colab](https://colab.research.google.com/drive/1Ez33Q3zWB3wohPK4GHbhZZSaE_2pqGXM?usp=sharing)**
+- **[Vídeos](https://www.youtube.com/watch?v=T7uHrC4uGDU)**
+
+---
+
+## 📘 Capítulo 12: Aplicações em Comunicações
+
+- **[Colab](https://colab.research.google.com/drive/1hAaCyVx2G1XZunNU5gpxrRPtYdQN5S_c?usp=sharing)**
+- **[Vídeos](https://www.youtube.com/watch?v=e3qXcEBRajU)**
+
+---
+
+## 🔍 O que você encontrará neste repositório
+
+- **Resumos de capítulos**: Explicações concisas dos tópicos abordados em cada capítulo.
+- **Simulações e exemplos práticos**: Código Python que demonstra os conceitos discutidos.
+- **Vídeos explicativos**: Links para vídeos que explicam detalhadamente os conceitos e as simulações.
+
+---
+
+## 📄 Licença
+
+Este repositório está licenciado sob a [MIT License](LICENSE).
