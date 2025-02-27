@@ -53,7 +53,3 @@ Este repositório contém a conversão dos exemplos do livro **"Digital Signal P
 - **Vídeos explicativos**: Links para vídeos que explicam detalhadamente os conceitos e as simulações.
 
 ---
-
-## 📄 Licença
-
-Este repositório está licenciado sob a [MIT License](LICENSE).
