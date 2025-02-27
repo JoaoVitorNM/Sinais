@@ -4,5 +4,5 @@ Este repositório contém a conversão dos exemplos do livro **"Digital Signal P
 
 ## Links:
 
-- [Colab]([notebooks/transformada_z.ipynb](https://colab.research.google.com/drive/1-5RX9PR8-LW3qeTXtP7xs34U3rBjicZO?usp=sharing))
+- [Colab]([[notebooks/transformada_z.ipynb](https://colab.research.google.com/drive/1-5RX9PR8-LW3qeTXtP7xs34U3rBjicZO?usp=sharing)](https://colab.research.google.com/drive/1-5RX9PR8-LW3qeTXtP7xs34U3rBjicZO?authuser=1#scrollTo=R8n6ni-xRckZ))
 - [Vídeos]()
